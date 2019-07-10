@@ -19,12 +19,19 @@ plugins:
   - jekyll-seo-tag
 
 authors:
-  sal:
-    name: Pratyaksh Singh
-    site: https://github.com/xamfy
+  sk:
+    name: Saakshay Khanna
+    # site: https://github.com/xamfy
+    avatar: assets/images/avatar2.jpg
+    bio: "Hi, I am Saakshay"
+    # email: spratyaksh@gmail.com
+
+  pst:
+    name: Parag Singh Tomar
+    # site: https://github.com/xamfy
     avatar: assets/images/avatar1.jpg
-    bio: "Hi, I am Pratyaksh"
-    email: spratyaksh@gmail.com
+    bio: "Hi, I am Parag"
+    # email: spratyaksh@gmail.com
     # twitter: https://twitter.com/wowthemesnet
   # jane:
   #   name: Jane
